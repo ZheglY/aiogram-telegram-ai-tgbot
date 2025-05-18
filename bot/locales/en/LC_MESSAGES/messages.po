@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "welcome_message"
+msgstr "👋 Welcome to the JZ Telegram bot!\n"
+"I am your intelligent assistant, ready to help you create creative content.\n\n"
+"💬 Chat with AI — discuss an idea, ask a question, or just have a conversation\n\n"
+"🖼 Image generation — describe what you want to see, and I’ll create it\n\n"
+"ℹ️ To learn more about the bot’s features and change the language, use the /help command\n\n"
+"Ready to start? Let’s go! 🚀"
+
+msgid "already_registered_welcome_message"
+msgstr "👋 Welcome back! How can I help you today?"
+
+msgid "help_message"
+msgstr "Bot commands:\n/menu — 🌟 Main menu\n/history — 🕒 Request history\n/language — 🌍 Change interface language\n\n"
+"If you encounter an error or want to leave feedback — click the button below."
+
+msgid "menu_message"
+msgstr "🌟 You are in the JZ bot menu\nChoose one of the options below:\n\n⁉️For more information, use the /help command."
+
+msgid "button_generate_picture"
+msgstr "🖼️ Generate Image"
+
+msgid "button_chat_with_ai"
+msgstr "💬 Chat with AI"
+
+msgid "change_language_message"
+msgstr "🌍 Want to change the language? Choose an option below."
+
+msgid "button_change_language"
+msgstr "🌐 Change Language"
+
+msgid "support_button"
+msgstr "📩 Leave feedback or report an issue"
+
+msgid "support_message"
+msgstr "Please describe the issue or suggest an improvement."
+
+msgid "saved_feedback"
+msgstr "Thank you for your feedback! Your opinion matters and will be taken into account."
+
+msgid "go_to_menu"
+msgstr "🌟 Back to menu"
+
+msgid "user_last_request"
+msgstr "🕒 Request history:\n(click the button below to view the bot's response)"
+
+msgid "request_generate_picture"
+msgstr "🖼 Describe what you want to see — and our JZ bot will generate a unique image! ✨"
+
+msgid "request_generate_text"
+msgstr "💬 Write anything — the JZ bot will reply to you right away!"
+
+msgid "wait for image"
+msgstr "Image is being generated..."
+
+msgid "echo_message"
+msgstr "😣I don't understand you... \nPlease use commands or type /help for more information."

@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es\n"
+
+msgid "welcome_message"
+msgstr "👋 ¡Bienvenido al bot de Telegram JZ!\n"
+"Soy tu asistente inteligente, listo para ayudarte a crear contenido creativo.\n\n"
+"💬 Chat con IA — discute una idea, haz una pregunta o simplemente charla\n\n"
+"🖼 Generación de imágenes — describe lo que quieres ver y lo crearé\n\n"
+"ℹ️ Para conocer más sobre las funciones del bot y cambiar el idioma, usa el comando /help\n\n"
+"¿Listo para empezar? ¡Vamos allá! 🚀"
+
+msgid "already_registered_welcome_message"
+msgstr "👋 ¡Nos alegra verte de nuevo! ¿En qué puedo ayudarte?"
+
+msgid "help_message"
+msgstr "Comandos del bot:\n/menu — 🌟 Menú principal\n/history — 🕒 Historial de solicitudes\n/language — 🌍 Cambiar idioma de la interfaz\n\n"
+"Si encontraste un error o quieres dejar un comentario — pulsa el botón de abajo."
+
+msgid "menu_message"
+msgstr "🌟 Estás en el menú del bot JZ\nElige una de las opciones a continuación:\n\n⁉️Para más información, usa el comando /help."
+
+msgid "button_generate_picture"
+msgstr "🖼️ Generar imagen"
+
+msgid "button_chat_with_ai"
+msgstr "💬 Chat con IA"
+
+msgid "change_language_message"
+msgstr "🌍 ¿Quieres cambiar el idioma? Elige una opción abajo."
+
+msgid "button_change_language"
+msgstr "🌐 Cambiar idioma"
+
+msgid "support_button"
+msgstr "📩 Enviar comentario o informar de un error"
+
+msgid "support_message"
+msgstr "Por favor, describe el error o sugiere una mejora."
+
+msgid "saved_feedback"
+msgstr "¡Gracias por tu comentario! Tu opinión es importante y la tendremos en cuenta."
+
+msgid "go_to_menu"
+msgstr "🌟 Volver al menú"
+
+msgid "user_last_request"
+msgstr "🕒 Historial de solicitudes:\n(haz clic en el botón de abajo para ver la respuesta del bot)"
+
+msgid "request_generate_picture"
+msgstr "🖼 Escribe lo que quieres ver, ¡y nuestro bot JZ generará una imagen única! ✨"
+
+msgid "request_generate_text"
+msgstr "💬 Escribe lo que quieras — ¡el bot JZ te responderá de inmediato!"
+
+msgid "wait for image"
+msgstr "La imagen se está generando..."
+
+msgid "echo_message"
+msgstr "😣No te entiendo... \nUsa comandos o escribe /help para más información."
+

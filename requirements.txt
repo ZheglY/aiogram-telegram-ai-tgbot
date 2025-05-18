@@ -1,0 +1,11 @@
+dotenv~=0.9.9
+python-dotenv~=1.1.0
+aiogram~=3.20.0.post0
+aiosqlite~=0.21.0
+SQLAlchemy~=2.0.40
+requests~=2.32.3
+aiohttp~=3.11.18
+mistralai~=1.7.0
+torch~=2.7.0
+diffusers~=0.33.1
+googletrans~=4.0.2
