@@ -149,6 +149,6 @@ Distributed under the MIT License. See the [LICENSE](./LICENSE) file for details
 
 
 ## Contact
-- 💬 Telegram: [@progaem_rebiatky_1098](https://t.me/progaem_rebiatky_1098)  
+- 💬 Telegram: [@progaem_1098](https://t.me/progaem_1098)  
 - 📢 Telegram Channel: [IT_Python_ZheglY](https://t.me/IT_Python_ZheglY)  
 - 🐙 GitHub: [ZheglY](https://github.com/ZheglY)
